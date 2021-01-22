@@ -1,0 +1,64 @@
+C:\Users\Menade HAMDAOUI\source\repos\TP_Interface_Visual\TP_Interface_Visual\bin\Debug\TP_Interface_Visual.exe.config
+C:\Users\Menade HAMDAOUI\source\repos\TP_Interface_Visual\TP_Interface_Visual\bin\Debug\TP_Interface_Visual.exe
+C:\Users\Menade HAMDAOUI\source\repos\TP_Interface_Visual\TP_Interface_Visual\bin\Debug\TP_Interface_Visual.pdb
+C:\Users\Menade HAMDAOUI\source\repos\TP_Interface_Visual\TP_Interface_Visual\obj\Debug\MainWindow.g.cs
+C:\Users\Menade HAMDAOUI\source\repos\TP_Interface_Visual\TP_Interface_Visual\obj\Debug\App.g.cs
+C:\Users\Menade HAMDAOUI\source\repos\TP_Interface_Visual\TP_Interface_Visual\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Menade HAMDAOUI\source\repos\TP_Interface_Visual\TP_Interface_Visual\obj\Debug\TP_Interface_Visual_MarkupCompile.cache
+C:\Users\Menade HAMDAOUI\source\repos\TP_Interface_Visual\TP_Interface_Visual\obj\Debug\TP_Interface_Visual_MarkupCompile.lref
+C:\Users\Menade HAMDAOUI\source\repos\TP_Interface_Visual\TP_Interface_Visual\obj\Debug\MainWindow.baml
+C:\Users\Menade HAMDAOUI\source\repos\TP_Interface_Visual\TP_Interface_Visual\obj\Debug\TP_Interface_Visual.g.resources
+C:\Users\Menade HAMDAOUI\source\repos\TP_Interface_Visual\TP_Interface_Visual\obj\Debug\TP_Interface_Visual.Properties.Resources.resources
+C:\Users\Menade HAMDAOUI\source\repos\TP_Interface_Visual\TP_Interface_Visual\obj\Debug\TP_Interface_Visual.csproj.GenerateResource.cache
+C:\Users\Menade HAMDAOUI\source\repos\TP_Interface_Visual\TP_Interface_Visual\obj\Debug\TP_Interface_Visual.csproj.CoreCompileInputs.cache
+C:\Users\Menade HAMDAOUI\source\repos\TP_Interface_Visual\TP_Interface_Visual\obj\Debug\TP_Interface_Visual.exe
+C:\Users\Menade HAMDAOUI\source\repos\TP_Interface_Visual\TP_Interface_Visual\obj\Debug\TP_Interface_Visual.pdb
+C:\Users\Menade HAMDAOUI\source\repos\TP_Interface_Visual\TP_Interface_Visual\obj\Debug\TP_Interface_Visual.csprojAssemblyReference.cache
+E:\Formation programmation orientée objet et technologies web\Session 3\420-994-RO Techniques de réalisation d'interfaces utilisateur\TP1\TP_Interface_Visual8\TP_Interface_Visual\bin\Debug\TP_Interface_Visual.exe.config
+E:\Formation programmation orientée objet et technologies web\Session 3\420-994-RO Techniques de réalisation d'interfaces utilisateur\TP1\TP_Interface_Visual8\TP_Interface_Visual\bin\Debug\TP_Interface_Visual.exe
+E:\Formation programmation orientée objet et technologies web\Session 3\420-994-RO Techniques de réalisation d'interfaces utilisateur\TP1\TP_Interface_Visual8\TP_Interface_Visual\bin\Debug\TP_Interface_Visual.pdb
+E:\Formation programmation orientée objet et technologies web\Session 3\420-994-RO Techniques de réalisation d'interfaces utilisateur\TP1\TP_Interface_Visual8\TP_Interface_Visual\obj\Debug\TP_Interface_Visual.csprojAssemblyReference.cache
+E:\Formation programmation orientée objet et technologies web\Session 3\420-994-RO Techniques de réalisation d'interfaces utilisateur\TP1\TP_Interface_Visual8\TP_Interface_Visual\obj\Debug\MainWindow.g.cs
+E:\Formation programmation orientée objet et technologies web\Session 3\420-994-RO Techniques de réalisation d'interfaces utilisateur\TP1\TP_Interface_Visual8\TP_Interface_Visual\obj\Debug\App.g.cs
+E:\Formation programmation orientée objet et technologies web\Session 3\420-994-RO Techniques de réalisation d'interfaces utilisateur\TP1\TP_Interface_Visual8\TP_Interface_Visual\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Formation programmation orientée objet et technologies web\Session 3\420-994-RO Techniques de réalisation d'interfaces utilisateur\TP1\TP_Interface_Visual8\TP_Interface_Visual\obj\Debug\TP_Interface_Visual_MarkupCompile.cache
+E:\Formation programmation orientée objet et technologies web\Session 3\420-994-RO Techniques de réalisation d'interfaces utilisateur\TP1\TP_Interface_Visual8\TP_Interface_Visual\obj\Debug\TP_Interface_Visual_MarkupCompile.lref
+E:\Formation programmation orientée objet et technologies web\Session 3\420-994-RO Techniques de réalisation d'interfaces utilisateur\TP1\TP_Interface_Visual8\TP_Interface_Visual\obj\Debug\MainWindow.baml
+E:\Formation programmation orientée objet et technologies web\Session 3\420-994-RO Techniques de réalisation d'interfaces utilisateur\TP1\TP_Interface_Visual8\TP_Interface_Visual\obj\Debug\TP_Interface_Visual.g.resources
+E:\Formation programmation orientée objet et technologies web\Session 3\420-994-RO Techniques de réalisation d'interfaces utilisateur\TP1\TP_Interface_Visual8\TP_Interface_Visual\obj\Debug\TP_Interface_Visual.Properties.Resources.resources
+E:\Formation programmation orientée objet et technologies web\Session 3\420-994-RO Techniques de réalisation d'interfaces utilisateur\TP1\TP_Interface_Visual8\TP_Interface_Visual\obj\Debug\TP_Interface_Visual.csproj.GenerateResource.cache
+E:\Formation programmation orientée objet et technologies web\Session 3\420-994-RO Techniques de réalisation d'interfaces utilisateur\TP1\TP_Interface_Visual8\TP_Interface_Visual\obj\Debug\TP_Interface_Visual.csproj.CoreCompileInputs.cache
+E:\Formation programmation orientée objet et technologies web\Session 3\420-994-RO Techniques de réalisation d'interfaces utilisateur\TP1\TP_Interface_Visual8\TP_Interface_Visual\obj\Debug\TP_Interface_Visual.exe
+E:\Formation programmation orientée objet et technologies web\Session 3\420-994-RO Techniques de réalisation d'interfaces utilisateur\TP1\TP_Interface_Visual8\TP_Interface_Visual\obj\Debug\TP_Interface_Visual.pdb
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\TP1\TP_Interface_Visual8\TP_Interface_Visual\bin\Debug\TP_Interface_Visual.exe.config
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\TP1\TP_Interface_Visual8\TP_Interface_Visual\bin\Debug\TP_Interface_Visual.exe
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\TP1\TP_Interface_Visual8\TP_Interface_Visual\bin\Debug\TP_Interface_Visual.pdb
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\TP1\TP_Interface_Visual8\TP_Interface_Visual\obj\Debug\TP_Interface_Visual.csprojAssemblyReference.cache
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\TP1\TP_Interface_Visual8\TP_Interface_Visual\obj\Debug\MainWindow.g.cs
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\TP1\TP_Interface_Visual8\TP_Interface_Visual\obj\Debug\App.g.cs
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\TP1\TP_Interface_Visual8\TP_Interface_Visual\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\TP1\TP_Interface_Visual8\TP_Interface_Visual\obj\Debug\TP_Interface_Visual_MarkupCompile.cache
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\TP1\TP_Interface_Visual8\TP_Interface_Visual\obj\Debug\TP_Interface_Visual_MarkupCompile.lref
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\TP1\TP_Interface_Visual8\TP_Interface_Visual\obj\Debug\MainWindow.baml
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\TP1\TP_Interface_Visual8\TP_Interface_Visual\obj\Debug\TP_Interface_Visual.g.resources
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\TP1\TP_Interface_Visual8\TP_Interface_Visual\obj\Debug\TP_Interface_Visual.Properties.Resources.resources
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\TP1\TP_Interface_Visual8\TP_Interface_Visual\obj\Debug\TP_Interface_Visual.csproj.GenerateResource.cache
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\TP1\TP_Interface_Visual8\TP_Interface_Visual\obj\Debug\TP_Interface_Visual.csproj.CoreCompileInputs.cache
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\TP1\TP_Interface_Visual8\TP_Interface_Visual\obj\Debug\TP_Interface_Visual.exe
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\TP1\TP_Interface_Visual8\TP_Interface_Visual\obj\Debug\TP_Interface_Visual.pdb
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\tgggggggggggggggggggggggggggg\TP_KARIM_MEGHAR_ET_MENADE_HAMDAOUI\TP_INTERFACE_D'AJOUT_NOUVEAU_ÉLÉMENT\TP_Interface_Visual\bin\Debug\TP_Interface_Visual.exe.config
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\tgggggggggggggggggggggggggggg\TP_KARIM_MEGHAR_ET_MENADE_HAMDAOUI\TP_INTERFACE_D'AJOUT_NOUVEAU_ÉLÉMENT\TP_Interface_Visual\bin\Debug\TP_Interface_Visual.exe
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\tgggggggggggggggggggggggggggg\TP_KARIM_MEGHAR_ET_MENADE_HAMDAOUI\TP_INTERFACE_D'AJOUT_NOUVEAU_ÉLÉMENT\TP_Interface_Visual\bin\Debug\TP_Interface_Visual.pdb
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\tgggggggggggggggggggggggggggg\TP_KARIM_MEGHAR_ET_MENADE_HAMDAOUI\TP_INTERFACE_D'AJOUT_NOUVEAU_ÉLÉMENT\TP_Interface_Visual\obj\Debug\TP_Interface_Visual.csprojAssemblyReference.cache
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\tgggggggggggggggggggggggggggg\TP_KARIM_MEGHAR_ET_MENADE_HAMDAOUI\TP_INTERFACE_D'AJOUT_NOUVEAU_ÉLÉMENT\TP_Interface_Visual\obj\Debug\MainWindow.g.cs
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\tgggggggggggggggggggggggggggg\TP_KARIM_MEGHAR_ET_MENADE_HAMDAOUI\TP_INTERFACE_D'AJOUT_NOUVEAU_ÉLÉMENT\TP_Interface_Visual\obj\Debug\App.g.cs
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\tgggggggggggggggggggggggggggg\TP_KARIM_MEGHAR_ET_MENADE_HAMDAOUI\TP_INTERFACE_D'AJOUT_NOUVEAU_ÉLÉMENT\TP_Interface_Visual\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\tgggggggggggggggggggggggggggg\TP_KARIM_MEGHAR_ET_MENADE_HAMDAOUI\TP_INTERFACE_D'AJOUT_NOUVEAU_ÉLÉMENT\TP_Interface_Visual\obj\Debug\TP_Interface_Visual_MarkupCompile.cache
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\tgggggggggggggggggggggggggggg\TP_KARIM_MEGHAR_ET_MENADE_HAMDAOUI\TP_INTERFACE_D'AJOUT_NOUVEAU_ÉLÉMENT\TP_Interface_Visual\obj\Debug\TP_Interface_Visual_MarkupCompile.lref
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\tgggggggggggggggggggggggggggg\TP_KARIM_MEGHAR_ET_MENADE_HAMDAOUI\TP_INTERFACE_D'AJOUT_NOUVEAU_ÉLÉMENT\TP_Interface_Visual\obj\Debug\MainWindow.baml
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\tgggggggggggggggggggggggggggg\TP_KARIM_MEGHAR_ET_MENADE_HAMDAOUI\TP_INTERFACE_D'AJOUT_NOUVEAU_ÉLÉMENT\TP_Interface_Visual\obj\Debug\TP_Interface_Visual.g.resources
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\tgggggggggggggggggggggggggggg\TP_KARIM_MEGHAR_ET_MENADE_HAMDAOUI\TP_INTERFACE_D'AJOUT_NOUVEAU_ÉLÉMENT\TP_Interface_Visual\obj\Debug\TP_Interface_Visual.Properties.Resources.resources
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\tgggggggggggggggggggggggggggg\TP_KARIM_MEGHAR_ET_MENADE_HAMDAOUI\TP_INTERFACE_D'AJOUT_NOUVEAU_ÉLÉMENT\TP_Interface_Visual\obj\Debug\TP_Interface_Visual.csproj.GenerateResource.cache
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\tgggggggggggggggggggggggggggg\TP_KARIM_MEGHAR_ET_MENADE_HAMDAOUI\TP_INTERFACE_D'AJOUT_NOUVEAU_ÉLÉMENT\TP_Interface_Visual\obj\Debug\TP_Interface_Visual.csproj.CoreCompileInputs.cache
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\tgggggggggggggggggggggggggggg\TP_KARIM_MEGHAR_ET_MENADE_HAMDAOUI\TP_INTERFACE_D'AJOUT_NOUVEAU_ÉLÉMENT\TP_Interface_Visual\obj\Debug\TP_Interface_Visual.exe
+G:\TECHNIQUES DE RÉALISATION D'INTERFACES UTILISATEUR 420-994-RO\tgggggggggggggggggggggggggggg\TP_KARIM_MEGHAR_ET_MENADE_HAMDAOUI\TP_INTERFACE_D'AJOUT_NOUVEAU_ÉLÉMENT\TP_Interface_Visual\obj\Debug\TP_Interface_Visual.pdb
